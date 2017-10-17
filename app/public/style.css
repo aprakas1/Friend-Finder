@@ -1,0 +1,47 @@
+body{
+	background-image:url("background.jpg");
+}
+
+#surveyButtonstyle{
+
+	background-color:#cfbafc;
+	border: pink;
+}
+#homeButtonstyle{
+
+	background-color:#cfbafc;
+	border: pink;
+}
+.jumbotron{
+	background-color:#ede3e9;
+	color:#5a4a7b;
+}
+#topMargin {
+	height:130px;
+}
+#MinitopMargin{
+	height:10px;
+}
+h1 {
+	font-size:15px;
+	color:purple;
+	font-weight: 100%;
+
+
+}
+#name {
+	width:25%;
+	
+
+}
+#pictureURL{
+	width:100%;
+	text-align: center;
+
+}
+#sel1 {
+	width:100%;
+}
+#submit{
+	background-color:white;
+}
